@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Jug Run</title>
+    <meta charset="UTF-8">
+
+<link rel=stylesheet hred="css/game.css"/>
+
+<script src='js/dat.gui.min.js'></script>
+
+<script src="lib/three.min.js"></script>
+<script src="lib/OrbitControls.js"></script>
+<script src="js/gameLoader.js"></script>
+<script src="js/gameScene.js"></script>
+<script src="js/gameBackend.js"></script>
+<script src="js/gameModeling.js"></script>
+<script src="js/gameCollision.js"></script>
+<script src="js/gameMath.js"></script>
+<script src="js/TGALoader.js"></script>
+
+
+</head>
+
+<body onload="init()">
+
+  <h1>JUG RUN </h1>
+
+
+  <div class="scoreBoard" id="scoreBoard">
+    <div class="score__content" id="health">
+      <div class="score__label">Health <span style="display:inline-block; width: 4;"></span></div>
+      <div class="score__value score__value--score" id="scoreValue">100</div>
+
+    </div>
+  </div>
+
+
+
+<div id="canvas-holder">
+<canvas id="glcanvas" width="1024" height="768"></canvas>
+</div>
+
+</body>
