@@ -1,6 +1,8 @@
 
 *Run Locally to Load Textures*
 
+*Made in collaboration with Hank Alderoty, Kobe Darko, and Isabel Kraus*
+
 Game Description
 
 Jug Run is a game inspired by the popular Hamilton bar, The Old Stone Jug, and the sometimes brutal trip back to one’s dormitory, apartment, or house during a cold winter’s night. In Jug Run this experience is exaggerated and the game’s hero, The Student, is running home to the townhouses while their health is constantly depleting due to the cold. If the health reaches zero the player has lost, but if they are able to make it all the way to the townhouse, they win. The player has to dodge cruisers, avoid snow banks, and pick up jackets and slices to keep their health up. 
