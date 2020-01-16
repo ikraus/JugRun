@@ -8,8 +8,6 @@ Game Description
 Jug Run is a game inspired by the popular Hamilton bar, The Old Stone Jug, and the sometimes brutal trip back to one’s dormitory, apartment, or house during a cold winter’s night. In Jug Run this experience is exaggerated and the game’s hero, The Student, is running home to the townhouses while their health is constantly depleting due to the cold. If the health reaches zero the player has lost, but if they are able to make it all the way to the townhouse, they win. The player has to dodge cruisers, avoid snow banks, and pick up jackets and slices to keep their health up. 
 Jug Run is played on a road resembling Broad Street. The Student can move between four lanes: two road lanes and a sidewalk on either side. While The Student never moves in the animated world it appears they are due to movement of objects such as street cracks, lamps, and houses moving along the z-axis until exiting the bottom of the canvas. The area is illuminated by a dim ambient light, spotlights in the street lamps, and headlights on the front of the cruisers.
 
-This project was made for COSC435, Colgate University
-
 References 
 
 	•	Boxy Run 
