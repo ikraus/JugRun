@@ -1,7 +1,7 @@
 
 *Run Locally to Load Textures*
 
-*Made in collaboration with Hank Alderoty, Kobe Darko, and Isabel Kraus*
+*Made in collaboration with Hank Alderoty, Kobe Darko, and Ignacio Bernaldez*
 
 Game Description
 
